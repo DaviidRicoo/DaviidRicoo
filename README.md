@@ -45,6 +45,18 @@
 
 ---
 
+## 🎓 Repositorios Académicos — WSB Merito Gdańsk (Erasmus+)
+
+| Asignatura / Repositorio | Descripción | Stack Tecnológico |
+| :--- | :--- | :--- |
+| ⚡ [**Distributed Processing**](https://github.com/DaviidRicoo/distributed-processing-spark-kafka) | Pipelines de datos en tiempo real y Big Data. | `Apache Spark` `Apache Kafka` `Docker` |
+| 📱 [**Mobile Devices Programming**](https://github.com/DaviidRicoo/mobile-devices-programming-kotlin) | Desarrollo de aplicaciones móviles nativas para Android. | `Kotlin` `Android Studio` `MVVM` |
+| 🧪 [**Web Apps & Testing**](https://github.com/DaviidRicoo/web-apps-programming-and-testing) | Desarrollo Full Stack y automatización de pruebas. | `JavaScript` `Node.js` `Jest` `Cypress` |
+| 🔌 [**IoT & Microprocessors**](https://github.com/DaviidRicoo/iot-microprocessor-technology) | Sistemas embebidos y telemetría de sensores en la nube. | `C++` `ESP32` `Arduino` `MQTT` |
+| 📐 [**Designing Info Systems**](https://github.com/DaviidRicoo/designing-information-systems) | Arquitectura de software, modelado UML y diseño de sistemas. | `UML` `Software Architecture` |
+
+---
+
 ### 🌐 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO_LINKEDIN)
